@@ -18,8 +18,8 @@ export class ApiService {
     }),
   };
 
-  // public url = 'https://escandallos-back.vercel.app/';
-  public url= 'http://localhost:3000/'
+  public url = 'https://escandallos-back.vercel.app/';
+  // public url= 'http://localhost:3000/'
 
   defect: Idefects = {
     title: '',
